@@ -1,0 +1,2 @@
+2024/04/03 08:40:40 ReqID: 3597ff2e-2286-4880-a038-8f8945381321 | Method: GET /books | IP: 127.0.0.1 
+2024/04/03 08:40:40 ReqID: 3597ff2e-2286-4880-a038-8f8945381321 | Method: GET /books | ResponseStatus: 200 | Latency: 5.1605ms 
