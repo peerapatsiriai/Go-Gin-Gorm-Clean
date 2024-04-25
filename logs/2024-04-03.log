@@ -1,8 +1,0 @@
-2024/04/03 08:40:40 ReqID: 3597ff2e-2286-4880-a038-8f8945381321 | Method: GET /books | IP: 127.0.0.1 
-2024/04/03 08:40:40 ReqID: 3597ff2e-2286-4880-a038-8f8945381321 | Method: GET /books | ResponseStatus: 200 | Latency: 5.1605ms 
-2024/04/03 09:08:18 ReqID: f284441a-1d93-46b0-867c-dd5230ca8cd0 | Method: GET / | IP: ::1 
-2024/04/03 09:08:18 ReqID: f284441a-1d93-46b0-867c-dd5230ca8cd0 | Method: GET / | ResponseStatus: 404 | Latency: 516.5µs 
-2024/04/03 09:08:18 ReqID: 74526854-9949-4344-ae23-5b04c7c5c2b8 | Method: GET / | IP: ::1 
-2024/04/03 09:08:18 ReqID: 74526854-9949-4344-ae23-5b04c7c5c2b8 | Method: GET / | ResponseStatus: 404 | Latency: 0s 
-2024/04/03 09:08:23 ReqID: 74be9b59-27a1-434b-a7b2-af24012edecc | Method: GET /books | IP: ::1 
-2024/04/03 09:08:23 ReqID: 74be9b59-27a1-434b-a7b2-af24012edecc | Method: GET /books | ResponseStatus: 200 | Latency: 8.2553ms 

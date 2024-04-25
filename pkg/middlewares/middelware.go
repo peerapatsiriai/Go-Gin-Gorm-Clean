@@ -1,4 +1,4 @@
-package middleware
+package middlewares
 
 import (
 	"fmt"
@@ -15,7 +15,7 @@ func SaveLog(c *gin.Context) {
 	requestID := uuid.New().String()
 
 	// Create a new log file every day
-	logFileName := fmt.Sprintf("./logs/%s.log", time.Now().Format("2006-01-02"))
+	logFileName := fmt.Sprintf("./assets/logs/%s.log", time.Now().Format("2006-01-02"))
 	f, err := os.OpenFile(logFileName, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		log.Fatal(err)

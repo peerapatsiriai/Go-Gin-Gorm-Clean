@@ -3,7 +3,7 @@ package app
 import (
 	"go/api/internal/domain"
 	entities "go/api/internal/entities"
-	middleware "go/api/internal/middlewares"
+	middleware "go/api/pkg/middlewares"
 	"net/http"
 	"strconv"
 
